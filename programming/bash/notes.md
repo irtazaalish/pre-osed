@@ -15,3 +15,5 @@ user=$(whoami)
 # user= the output of whoami
 
 ```
+
+### notees left in b/w
