@@ -1,2 +1,3 @@
 # pre-osed
-Stuff  I learn before starting OSED
+
+Stuff I learn before starting OSED
